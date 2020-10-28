@@ -1,4 +1,4 @@
-xuxucao
+
 
 Code from tutorial here:
 http://www.javascript-coder.com/javascript-form/javascript-calculator-script.phtml
